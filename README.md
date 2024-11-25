@@ -1,4 +1,4 @@
-# Face-Anonymizer-Python-Opencv
+# Face Anonymizer
 
 Created a Face anonymizer using python, opencv and mediapipe 
 
